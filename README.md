@@ -1,3 +1,9 @@
+**Live dashboard: <https://hatemsedghiani.github.io/stg17-dashboard/>**
+
+Rebuilt by running the notebook in this repository against the source publication. Last published 2026-09-29.
+
+---
+
 # 2026 Labour Market Overview
 
 Bilingual (EN/FR) dashboard built from **2026 ةنس نم**, pages 2, 3, 5.
