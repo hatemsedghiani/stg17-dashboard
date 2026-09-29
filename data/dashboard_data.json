@@ -1,0 +1,3034 @@
+{
+ "meta": {
+  "publisher": {
+   "en": "National Institute of Statistics",
+   "fr": "Institut National de la Statistique"
+  },
+  "country": {
+   "en": "",
+   "fr": ""
+  },
+  "docTitle": {
+   "en": "2026 ةنس نم",
+   "fr": "2026 ةنس نم"
+  },
+  "period": {
+   "en": "",
+   "fr": ""
+  },
+  "sourceUrl": "https://www.ins.tn/sites/default/files-ftp3/files/publication/pdf/Note_Emploi%20_T2_2026.pdf",
+  "licence": {
+   "en": "Source data: as published by the institute. Dashboard code: MIT.",
+   "fr": "Données source : telles que publiées par l'institut. Code : MIT."
+  },
+  "contact": {
+   "en": "Built at the STG17 technical workshop, lab 02.",
+   "fr": "Réalisé lors de l'atelier technique STG17, labo 02."
+  },
+  "defaultLang": "fr",
+  "synthetic": false,
+  "generated": "2026-09-29"
+ },
+ "areas": [
+  {
+   "id": "nat",
+   "fr": "Ensemble",
+   "en": "Total",
+   "national": true
+  },
+  {
+   "id": "femmes",
+   "fr": "Femmes",
+   "en": "Women"
+  },
+  {
+   "id": "hommes",
+   "fr": "Hommes",
+   "en": "Men"
+  }
+ ],
+ "kpis": [
+  {
+   "labels": {
+    "en": "Active women, Q2 2026",
+    "fr": "Femmes actives, T2 2026"
+   },
+   "value": 1303,
+   "unit": {
+    "en": "thousand",
+    "fr": "thousand"
+   },
+   "delta": null,
+   "deltaLabel": {
+    "en": "vs None",
+    "fr": "vs None"
+   },
+   "good": "down",
+   "highlight": false
+  },
+  {
+   "labels": {
+    "en": "Activity rate women, Q2 2026",
+    "fr": "Taux d’activité femmes, T2 2026"
+   },
+   "value": 28.7,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "delta": null,
+   "deltaLabel": {
+    "en": "vs None",
+    "fr": "vs None"
+   },
+   "good": "down",
+   "highlight": false
+  },
+  {
+   "labels": {
+    "en": "Employed men, Q2 2026",
+    "fr": "Hommes occupés, T2 2026"
+   },
+   "value": 2546,
+   "unit": {
+    "en": "thousand",
+    "fr": "mille"
+   },
+   "delta": null,
+   "deltaLabel": {
+    "en": "vs None",
+    "fr": "vs None"
+   },
+   "good": "down",
+   "highlight": false
+  },
+  {
+   "labels": {
+    "en": "Total active population, Q2 2026",
+    "fr": "Population active totale, T2 2026"
+   },
+   "value": 4191,
+   "unit": {
+    "en": "thousand",
+    "fr": "thousand"
+   },
+   "delta": null,
+   "deltaLabel": {
+    "en": "vs None",
+    "fr": "vs None"
+   },
+   "good": "down",
+   "highlight": false
+  }
+ ],
+ "series": {
+  "evolution_actifs": {
+   "unit": {
+    "en": "thousand",
+    "fr": "thousand"
+   },
+   "periods": [
+    "2022 T1",
+    "2022 T2",
+    "2022 T3",
+    "2022 T4",
+    "2023 T1",
+    "2023 T2",
+    "2023 T3",
+    "2023 T4",
+    "2024 T1",
+    "2024 T2",
+    "2024 T3",
+    "2024 T4",
+    "2025 T1",
+    "2025 T2",
+    "2025 T3",
+    "2025 T4",
+    "2026 T1",
+    "2026 T2"
+   ],
+   "values": {
+    "nat": [
+     4046,
+     4081,
+     4012,
+     4124,
+     4078,
+     4096,
+     4032,
+     4084,
+     4145,
+     4146,
+     4179,
+     4532,
+     4233,
+     4260,
+     4259,
+     4255,
+     4268,
+     4191
+    ],
+    "femmes": [
+     1232,
+     1245,
+     1174,
+     1275,
+     1222,
+     1235,
+     1183,
+     1248,
+     1258,
+     1288,
+     1284,
+     1653,
+     1334,
+     1360,
+     1337,
+     1324,
+     1379,
+     1303
+    ],
+    "hommes": [
+     2814,
+     2836,
+     2838,
+     2849,
+     2856,
+     2861,
+     2849,
+     2836,
+     2887,
+     2858,
+     2895,
+     2879,
+     2900,
+     2900,
+     2923,
+     2931,
+     2889,
+     2888
+    ]
+   }
+  },
+  "evolution_taux_activite": {
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "periods": [
+    "2022 T1",
+    "2022 T2",
+    "2022 T3",
+    "2022 T4",
+    "2023 T1",
+    "2023 T2",
+    "2023 T3",
+    "2023 T4",
+    "2024 T1",
+    "2024 T2",
+    "2024 T3",
+    "2024 T4",
+    "2025 T1",
+    "2025 T2",
+    "2025 T3",
+    "2025 T4",
+    "2026 T1",
+    "2026 T2",
+    "2026 T3",
+    "2026 T4"
+   ],
+   "values": {
+    "nat": [
+     45.6,
+     46.0,
+     45.3,
+     46.5,
+     46.0,
+     46.3,
+     45.2,
+     45.8,
+     46.3,
+     46.0,
+     45.2,
+     45.8,
+     46.3,
+     46.2,
+     46.1,
+     45.4,
+     45.9,
+     44.7,
+     null,
+     null
+    ],
+    "femmes": [
+     27.2,
+     27.5,
+     26.0,
+     28.2,
+     27.0,
+     27.7,
+     25.9,
+     27.4,
+     27.5,
+     27.7,
+     25.9,
+     27.4,
+     27.5,
+     27.7,
+     25.9,
+     27.4,
+     28.6,
+     28.7,
+     28.2,
+     27.1
+    ],
+    "hommes": [
+     64.8,
+     65.3,
+     65.4,
+     65.7,
+     65.9,
+     65.8,
+     65.3,
+     65.1,
+     65.9,
+     65.2,
+     69.3,
+     64.0,
+     65.1,
+     64.6,
+     64.9,
+     64.3,
+     63.9,
+     63.3,
+     null,
+     null
+    ]
+   }
+  },
+  "evolution_occupes_sexe": {
+   "unit": {
+    "en": "thousand",
+    "fr": "mille"
+   },
+   "periods": [
+    "2022 T1",
+    "2022 T2",
+    "2022 T3",
+    "2022 T4",
+    "2023 T1",
+    "2023 T2",
+    "2023 T3",
+    "2023 T4",
+    "2024 T1",
+    "2024 T2",
+    "2024 T3",
+    "2024 T4",
+    "2025 T1",
+    "2025 T2",
+    "2025 T3",
+    "2025 T4",
+    "2026 T1",
+    "2026 T2"
+   ],
+   "values": {
+    "nat": [
+     3393,
+     3454,
+     3398,
+     3500,
+     3422,
+     3458,
+     3394,
+     3416,
+     3476,
+     3484,
+     3512,
+     3784,
+     3569,
+     3609,
+     3606,
+     3610,
+     3626,
+     3568
+    ],
+    "femmes": [
+     975,
+     990,
+     934,
+     1019,
+     964,
+     974,
+     926,
+     970.8,
+     982,
+     1015,
+     1001,
+     1271,
+     1064,
+     1075,
+     1037,
+     1048,
+     1094,
+     1022
+    ],
+    "hommes": [
+     2418,
+     2465,
+     2464,
+     2481,
+     2459,
+     2484,
+     2468,
+     2446,
+     2494,
+     2470,
+     2511,
+     2514,
+     2506,
+     2534,
+     2569,
+     2562,
+     2532,
+     2546
+    ]
+   }
+  }
+ },
+ "views": [
+  {
+   "id": "evolution_actifs",
+   "chart": "line",
+   "tab": {
+    "en": "Active population",
+    "fr": "Population active"
+   },
+   "title": {
+    "en": "Evolution of active population (thousands) by sex, 2022‑2026",
+    "fr": "Évolution de la population active (en milliers) selon le sexe, 2022‑2026"
+   },
+   "sub": {
+    "en": "Quarterly series for total, women and men",
+    "fr": "Séries trimestrielles pour l’ensemble, les femmes et les hommes"
+   },
+   "lede": {
+    "en": "Active population increased for both sexes over the period.",
+    "fr": "La population active a augmenté pour les deux sexes au cours de la période."
+   },
+   "src": {
+    "en": "Source: National Statistical Institute",
+    "fr": "Source : Institut national de la statistique"
+   }
+  },
+  {
+   "id": "evolution_taux_activite",
+   "chart": "line",
+   "tab": {
+    "en": "Activity rate",
+    "fr": "Taux d’activité"
+   },
+   "title": {
+    "en": "Evolution of activity rate (%) by sex, 2022‑2026",
+    "fr": "Évolution du taux d’activité (%) selon le sexe, 2022‑2026"
+   },
+   "sub": {
+    "en": "Quarterly percentages for total, women and men",
+    "fr": "Pourcentages trimestriels pour l’ensemble, les femmes et les hommes"
+   },
+   "lede": {
+    "en": "Activity rates show modest fluctuations across quarters.",
+    "fr": "Les taux d’activité présentent de modestes fluctuations d’un trimestre à l’autre."
+   },
+   "src": {
+    "en": "Source: National Statistical Institute",
+    "fr": "Source : Institut national de la statistique"
+   }
+  },
+  {
+   "id": "evolution_occupes_sexe",
+   "chart": "line",
+   "tab": {
+    "en": "Employed persons",
+    "fr": "Personnes occupées"
+   },
+   "title": {
+    "en": "Evolution of employed persons (thousands) by sex, 2022‑2026",
+    "fr": "Évolution des personnes occupées (en milliers) selon le sexe, 2022‑2026"
+   },
+   "sub": {
+    "en": "Quarterly series for total, women and men",
+    "fr": "Séries trimestrielles pour l’ensemble, les femmes et les hommes"
+   },
+   "lede": {
+    "en": "Employment grew for both women and men throughout the period.",
+    "fr": "L’emploi a progressé pour les femmes et les hommes tout au long de la période."
+   },
+   "src": {
+    "en": "Source: National Statistical Institute",
+    "fr": "Source : Institut national de la statistique"
+   }
+  }
+ ],
+ "facts": [
+  {
+   "indicator": "evolution_actifs",
+   "area": "hommes",
+   "period": "2022 T1",
+   "value": 2814,
+   "unit": {
+    "en": "thousand",
+    "fr": "thousand"
+   },
+   "page": 2,
+   "snippet": "Hommes 2814 2836 2838 2849 2856 2861 2849 2836 2887 2858 2895 2879 2900 2900 2923 2931 2889 2888 روكذ",
+   "status": "warn",
+   "note": {
+    "en": "2814 is nowhere on the 'Hommes' row; that row reads [64.8, 65.3, 65.4, 65.7, 65.9, 65.8]",
+    "fr": "2814 is nowhere on the 'Hommes' row; that row reads [64.8, 65.3, 65.4, 65.7, 65.9, 65.8]"
+   }
+  },
+  {
+   "indicator": "evolution_actifs",
+   "area": "hommes",
+   "period": "2022 T2",
+   "value": 2836,
+   "unit": {
+    "en": "thousand",
+    "fr": "thousand"
+   },
+   "page": 2,
+   "snippet": "Hommes 2814 2836 2838 2849 2856 2861 2849 2836 2887 2858 2895 2879 2900 2900 2923 2931 2889 2888 روكذ",
+   "status": "warn",
+   "note": {
+    "en": "2836 is nowhere on the 'Hommes' row; that row reads [64.8, 65.3, 65.4, 65.7, 65.9, 65.8]",
+    "fr": "2836 is nowhere on the 'Hommes' row; that row reads [64.8, 65.3, 65.4, 65.7, 65.9, 65.8]"
+   }
+  },
+  {
+   "indicator": "evolution_actifs",
+   "area": "hommes",
+   "period": "2022 T3",
+   "value": 2838,
+   "unit": {
+    "en": "thousand",
+    "fr": "thousand"
+   },
+   "page": 2,
+   "snippet": "Hommes 2814 2836 2838 2849 2856 2861 2849 2836 2887 2858 2895 2879 2900 2900 2923 2931 2889 2888 روكذ",
+   "status": "warn",
+   "note": {
+    "en": "2838 is nowhere on the 'Hommes' row; that row reads [64.8, 65.3, 65.4, 65.7, 65.9, 65.8]",
+    "fr": "2838 is nowhere on the 'Hommes' row; that row reads [64.8, 65.3, 65.4, 65.7, 65.9, 65.8]"
+   }
+  },
+  {
+   "indicator": "evolution_actifs",
+   "area": "hommes",
+   "period": "2022 T4",
+   "value": 2849,
+   "unit": {
+    "en": "thousand",
+    "fr": "thousand"
+   },
+   "page": 2,
+   "snippet": "Hommes 2814 2836 2838 2849 2856 2861 2849 2836 2887 2858 2895 2879 2900 2900 2923 2931 2889 2888 روكذ",
+   "status": "warn",
+   "note": {
+    "en": "2849 is nowhere on the 'Hommes' row; that row reads [64.8, 65.3, 65.4, 65.7, 65.9, 65.8]",
+    "fr": "2849 is nowhere on the 'Hommes' row; that row reads [64.8, 65.3, 65.4, 65.7, 65.9, 65.8]"
+   }
+  },
+  {
+   "indicator": "evolution_actifs",
+   "area": "hommes",
+   "period": "2023 T1",
+   "value": 2856,
+   "unit": {
+    "en": "thousand",
+    "fr": "thousand"
+   },
+   "page": 2,
+   "snippet": "Hommes 2814 2836 2838 2849 2856 2861 2849 2836 2887 2858 2895 2879 2900 2900 2923 2931 2889 2888 روكذ",
+   "status": "warn",
+   "note": {
+    "en": "2856 is nowhere on the 'Hommes' row; that row reads [64.8, 65.3, 65.4, 65.7, 65.9, 65.8]",
+    "fr": "2856 is nowhere on the 'Hommes' row; that row reads [64.8, 65.3, 65.4, 65.7, 65.9, 65.8]"
+   }
+  },
+  {
+   "indicator": "evolution_actifs",
+   "area": "hommes",
+   "period": "2023 T2",
+   "value": 2861,
+   "unit": {
+    "en": "thousand",
+    "fr": "thousand"
+   },
+   "page": 2,
+   "snippet": "Hommes 2814 2836 2838 2849 2856 2861 2849 2836 2887 2858 2895 2879 2900 2900 2923 2931 2889 2888 روكذ",
+   "status": "warn",
+   "note": {
+    "en": "2861 is nowhere on the 'Hommes' row; that row reads [64.8, 65.3, 65.4, 65.7, 65.9, 65.8]",
+    "fr": "2861 is nowhere on the 'Hommes' row; that row reads [64.8, 65.3, 65.4, 65.7, 65.9, 65.8]"
+   }
+  },
+  {
+   "indicator": "evolution_actifs",
+   "area": "hommes",
+   "period": "2023 T3",
+   "value": 2849,
+   "unit": {
+    "en": "thousand",
+    "fr": "thousand"
+   },
+   "page": 2,
+   "snippet": "Hommes 2814 2836 2838 2849 2856 2861 2849 2836 2887 2858 2895 2879 2900 2900 2923 2931 2889 2888 روكذ",
+   "status": "warn",
+   "note": {
+    "en": "2849 is nowhere on the 'Hommes' row; that row reads [64.8, 65.3, 65.4, 65.7, 65.9, 65.8]",
+    "fr": "2849 is nowhere on the 'Hommes' row; that row reads [64.8, 65.3, 65.4, 65.7, 65.9, 65.8]"
+   }
+  },
+  {
+   "indicator": "evolution_actifs",
+   "area": "hommes",
+   "period": "2023 T4",
+   "value": 2836,
+   "unit": {
+    "en": "thousand",
+    "fr": "thousand"
+   },
+   "page": 2,
+   "snippet": "Hommes 2814 2836 2838 2849 2856 2861 2849 2836 2887 2858 2895 2879 2900 2900 2923 2931 2889 2888 روكذ",
+   "status": "warn",
+   "note": {
+    "en": "2836 is nowhere on the 'Hommes' row; that row reads [64.8, 65.3, 65.4, 65.7, 65.9, 65.8]",
+    "fr": "2836 is nowhere on the 'Hommes' row; that row reads [64.8, 65.3, 65.4, 65.7, 65.9, 65.8]"
+   }
+  },
+  {
+   "indicator": "evolution_actifs",
+   "area": "hommes",
+   "period": "2024 T1",
+   "value": 2887,
+   "unit": {
+    "en": "thousand",
+    "fr": "thousand"
+   },
+   "page": 2,
+   "snippet": "Hommes 2814 2836 2838 2849 2856 2861 2849 2836 2887 2858 2895 2879 2900 2900 2923 2931 2889 2888 روكذ",
+   "status": "warn",
+   "note": {
+    "en": "2887 is nowhere on the 'Hommes' row; that row reads [64.8, 65.3, 65.4, 65.7, 65.9, 65.8]",
+    "fr": "2887 is nowhere on the 'Hommes' row; that row reads [64.8, 65.3, 65.4, 65.7, 65.9, 65.8]"
+   }
+  },
+  {
+   "indicator": "evolution_actifs",
+   "area": "hommes",
+   "period": "2024 T2",
+   "value": 2858,
+   "unit": {
+    "en": "thousand",
+    "fr": "thousand"
+   },
+   "page": 2,
+   "snippet": "Hommes 2814 2836 2838 2849 2856 2861 2849 2836 2887 2858 2895 2879 2900 2900 2923 2931 2889 2888 روكذ",
+   "status": "warn",
+   "note": {
+    "en": "2858 is nowhere on the 'Hommes' row; that row reads [64.8, 65.3, 65.4, 65.7, 65.9, 65.8]",
+    "fr": "2858 is nowhere on the 'Hommes' row; that row reads [64.8, 65.3, 65.4, 65.7, 65.9, 65.8]"
+   }
+  },
+  {
+   "indicator": "evolution_actifs",
+   "area": "hommes",
+   "period": "2024 T3",
+   "value": 2895,
+   "unit": {
+    "en": "thousand",
+    "fr": "thousand"
+   },
+   "page": 2,
+   "snippet": "Hommes 2814 2836 2838 2849 2856 2861 2849 2836 2887 2858 2895 2879 2900 2900 2923 2931 2889 2888 روكذ",
+   "status": "warn",
+   "note": {
+    "en": "2895 is nowhere on the 'Hommes' row; that row reads [64.8, 65.3, 65.4, 65.7, 65.9, 65.8]",
+    "fr": "2895 is nowhere on the 'Hommes' row; that row reads [64.8, 65.3, 65.4, 65.7, 65.9, 65.8]"
+   }
+  },
+  {
+   "indicator": "evolution_actifs",
+   "area": "hommes",
+   "period": "2024 T4",
+   "value": 2879,
+   "unit": {
+    "en": "thousand",
+    "fr": "thousand"
+   },
+   "page": 2,
+   "snippet": "Hommes 2814 2836 2838 2849 2856 2861 2849 2836 2887 2858 2895 2879 2900 2900 2923 2931 2889 2888 روكذ",
+   "status": "warn",
+   "note": {
+    "en": "2879 is nowhere on the 'Hommes' row; that row reads [64.8, 65.3, 65.4, 65.7, 65.9, 65.8]",
+    "fr": "2879 is nowhere on the 'Hommes' row; that row reads [64.8, 65.3, 65.4, 65.7, 65.9, 65.8]"
+   }
+  },
+  {
+   "indicator": "evolution_actifs",
+   "area": "hommes",
+   "period": "2025 T1",
+   "value": 2900,
+   "unit": {
+    "en": "thousand",
+    "fr": "thousand"
+   },
+   "page": 2,
+   "snippet": "Hommes 2814 2836 2838 2849 2856 2861 2849 2836 2887 2858 2895 2879 2900 2900 2923 2931 2889 2888 روكذ",
+   "status": "warn",
+   "note": {
+    "en": "2900 is nowhere on the 'Hommes' row; that row reads [64.8, 65.3, 65.4, 65.7, 65.9, 65.8]",
+    "fr": "2900 is nowhere on the 'Hommes' row; that row reads [64.8, 65.3, 65.4, 65.7, 65.9, 65.8]"
+   }
+  },
+  {
+   "indicator": "evolution_actifs",
+   "area": "hommes",
+   "period": "2025 T2",
+   "value": 2900,
+   "unit": {
+    "en": "thousand",
+    "fr": "thousand"
+   },
+   "page": 2,
+   "snippet": "Hommes 2814 2836 2838 2849 2856 2861 2849 2836 2887 2858 2895 2879 2900 2900 2923 2931 2889 2888 روكذ",
+   "status": "warn",
+   "note": {
+    "en": "2900 is nowhere on the 'Hommes' row; that row reads [64.8, 65.3, 65.4, 65.7, 65.9, 65.8]",
+    "fr": "2900 is nowhere on the 'Hommes' row; that row reads [64.8, 65.3, 65.4, 65.7, 65.9, 65.8]"
+   }
+  },
+  {
+   "indicator": "evolution_actifs",
+   "area": "hommes",
+   "period": "2025 T3",
+   "value": 2923,
+   "unit": {
+    "en": "thousand",
+    "fr": "thousand"
+   },
+   "page": 2,
+   "snippet": "Hommes 2814 2836 2838 2849 2856 2861 2849 2836 2887 2858 2895 2879 2900 2900 2923 2931 2889 2888 روكذ",
+   "status": "warn",
+   "note": {
+    "en": "2923 is nowhere on the 'Hommes' row; that row reads [64.8, 65.3, 65.4, 65.7, 65.9, 65.8]",
+    "fr": "2923 is nowhere on the 'Hommes' row; that row reads [64.8, 65.3, 65.4, 65.7, 65.9, 65.8]"
+   }
+  },
+  {
+   "indicator": "evolution_actifs",
+   "area": "hommes",
+   "period": "2025 T4",
+   "value": 2931,
+   "unit": {
+    "en": "thousand",
+    "fr": "thousand"
+   },
+   "page": 2,
+   "snippet": "Hommes 2814 2836 2838 2849 2856 2861 2849 2836 2887 2858 2895 2879 2900 2900 2923 2931 2889 2888 روكذ",
+   "status": "warn",
+   "note": {
+    "en": "2931 is nowhere on the 'Hommes' row; that row reads [64.8, 65.3, 65.4, 65.7, 65.9, 65.8]",
+    "fr": "2931 is nowhere on the 'Hommes' row; that row reads [64.8, 65.3, 65.4, 65.7, 65.9, 65.8]"
+   }
+  },
+  {
+   "indicator": "evolution_actifs",
+   "area": "hommes",
+   "period": "2026 T1",
+   "value": 2889,
+   "unit": {
+    "en": "thousand",
+    "fr": "thousand"
+   },
+   "page": 2,
+   "snippet": "Hommes 2814 2836 2838 2849 2856 2861 2849 2836 2887 2858 2895 2879 2900 2900 2923 2931 2889 2888 روكذ",
+   "status": "warn",
+   "note": {
+    "en": "2889 is nowhere on the 'Hommes' row; that row reads [64.8, 65.3, 65.4, 65.7, 65.9, 65.8]",
+    "fr": "2889 is nowhere on the 'Hommes' row; that row reads [64.8, 65.3, 65.4, 65.7, 65.9, 65.8]"
+   }
+  },
+  {
+   "indicator": "evolution_actifs",
+   "area": "hommes",
+   "period": "2026 T2",
+   "value": 2888,
+   "unit": {
+    "en": "thousand",
+    "fr": "thousand"
+   },
+   "page": 2,
+   "snippet": "Hommes 2814 2836 2838 2849 2856 2861 2849 2836 2887 2858 2895 2879 2900 2900 2923 2931 2889 2888 روكذ",
+   "status": "warn",
+   "note": {
+    "en": "2888 is nowhere on the 'Hommes' row; that row reads [64.8, 65.3, 65.4, 65.7, 65.9, 65.8]",
+    "fr": "2888 is nowhere on the 'Hommes' row; that row reads [64.8, 65.3, 65.4, 65.7, 65.9, 65.8]"
+   }
+  },
+  {
+   "indicator": "evolution_actifs",
+   "area": "femmes",
+   "period": "2022 T1",
+   "value": 1232,
+   "unit": {
+    "en": "thousand",
+    "fr": "thousand"
+   },
+   "page": 2,
+   "snippet": "Femmes 1232 1245 1174 1275 1222 1235 1183 1248 1258 1288 1284 1653 1334 1360 1337 1324 1379 1303 ثانإ",
+   "status": "warn",
+   "note": {
+    "en": "1232 is nowhere on the 'Femmes' row; that row reads [27.2, 27.5, 26.0, 28.2, 27.0, 27.7]",
+    "fr": "1232 is nowhere on the 'Femmes' row; that row reads [27.2, 27.5, 26.0, 28.2, 27.0, 27.7]"
+   }
+  },
+  {
+   "indicator": "evolution_actifs",
+   "area": "femmes",
+   "period": "2022 T2",
+   "value": 1245,
+   "unit": {
+    "en": "thousand",
+    "fr": "thousand"
+   },
+   "page": 2,
+   "snippet": "Femmes 1232 1245 1174 1275 1222 1235 1183 1248 1258 1288 1284 1653 1334 1360 1337 1324 1379 1303 ثانإ",
+   "status": "warn",
+   "note": {
+    "en": "1245 is nowhere on the 'Femmes' row; that row reads [27.2, 27.5, 26.0, 28.2, 27.0, 27.7]",
+    "fr": "1245 is nowhere on the 'Femmes' row; that row reads [27.2, 27.5, 26.0, 28.2, 27.0, 27.7]"
+   }
+  },
+  {
+   "indicator": "evolution_actifs",
+   "area": "femmes",
+   "period": "2022 T3",
+   "value": 1174,
+   "unit": {
+    "en": "thousand",
+    "fr": "thousand"
+   },
+   "page": 2,
+   "snippet": "Femmes 1232 1245 1174 1275 1222 1235 1183 1248 1258 1288 1284 1653 1334 1360 1337 1324 1379 1303 ثانإ",
+   "status": "warn",
+   "note": {
+    "en": "1174 is nowhere on the 'Femmes' row; that row reads [27.2, 27.5, 26.0, 28.2, 27.0, 27.7]",
+    "fr": "1174 is nowhere on the 'Femmes' row; that row reads [27.2, 27.5, 26.0, 28.2, 27.0, 27.7]"
+   }
+  },
+  {
+   "indicator": "evolution_actifs",
+   "area": "femmes",
+   "period": "2022 T4",
+   "value": 1275,
+   "unit": {
+    "en": "thousand",
+    "fr": "thousand"
+   },
+   "page": 2,
+   "snippet": "Femmes 1232 1245 1174 1275 1222 1235 1183 1248 1258 1288 1284 1653 1334 1360 1337 1324 1379 1303 ثانإ",
+   "status": "warn",
+   "note": {
+    "en": "1275 is nowhere on the 'Femmes' row; that row reads [27.2, 27.5, 26.0, 28.2, 27.0, 27.7]",
+    "fr": "1275 is nowhere on the 'Femmes' row; that row reads [27.2, 27.5, 26.0, 28.2, 27.0, 27.7]"
+   }
+  },
+  {
+   "indicator": "evolution_actifs",
+   "area": "femmes",
+   "period": "2023 T1",
+   "value": 1222,
+   "unit": {
+    "en": "thousand",
+    "fr": "thousand"
+   },
+   "page": 2,
+   "snippet": "Femmes 1232 1245 1174 1275 1222 1235 1183 1248 1258 1288 1284 1653 1334 1360 1337 1324 1379 1303 ثانإ",
+   "status": "warn",
+   "note": {
+    "en": "1222 is nowhere on the 'Femmes' row; that row reads [27.2, 27.5, 26.0, 28.2, 27.0, 27.7]",
+    "fr": "1222 is nowhere on the 'Femmes' row; that row reads [27.2, 27.5, 26.0, 28.2, 27.0, 27.7]"
+   }
+  },
+  {
+   "indicator": "evolution_actifs",
+   "area": "femmes",
+   "period": "2023 T2",
+   "value": 1235,
+   "unit": {
+    "en": "thousand",
+    "fr": "thousand"
+   },
+   "page": 2,
+   "snippet": "Femmes 1232 1245 1174 1275 1222 1235 1183 1248 1258 1288 1284 1653 1334 1360 1337 1324 1379 1303 ثانإ",
+   "status": "warn",
+   "note": {
+    "en": "1235 is nowhere on the 'Femmes' row; that row reads [27.2, 27.5, 26.0, 28.2, 27.0, 27.7]",
+    "fr": "1235 is nowhere on the 'Femmes' row; that row reads [27.2, 27.5, 26.0, 28.2, 27.0, 27.7]"
+   }
+  },
+  {
+   "indicator": "evolution_actifs",
+   "area": "femmes",
+   "period": "2023 T3",
+   "value": 1183,
+   "unit": {
+    "en": "thousand",
+    "fr": "thousand"
+   },
+   "page": 2,
+   "snippet": "Femmes 1232 1245 1174 1275 1222 1235 1183 1248 1258 1288 1284 1653 1334 1360 1337 1324 1379 1303 ثانإ",
+   "status": "warn",
+   "note": {
+    "en": "1183 is nowhere on the 'Femmes' row; that row reads [27.2, 27.5, 26.0, 28.2, 27.0, 27.7]",
+    "fr": "1183 is nowhere on the 'Femmes' row; that row reads [27.2, 27.5, 26.0, 28.2, 27.0, 27.7]"
+   }
+  },
+  {
+   "indicator": "evolution_actifs",
+   "area": "femmes",
+   "period": "2023 T4",
+   "value": 1248,
+   "unit": {
+    "en": "thousand",
+    "fr": "thousand"
+   },
+   "page": 2,
+   "snippet": "Femmes 1232 1245 1174 1275 1222 1235 1183 1248 1258 1288 1284 1653 1334 1360 1337 1324 1379 1303 ثانإ",
+   "status": "warn",
+   "note": {
+    "en": "1248 is nowhere on the 'Femmes' row; that row reads [27.2, 27.5, 26.0, 28.2, 27.0, 27.7]",
+    "fr": "1248 is nowhere on the 'Femmes' row; that row reads [27.2, 27.5, 26.0, 28.2, 27.0, 27.7]"
+   }
+  },
+  {
+   "indicator": "evolution_actifs",
+   "area": "femmes",
+   "period": "2024 T1",
+   "value": 1258,
+   "unit": {
+    "en": "thousand",
+    "fr": "thousand"
+   },
+   "page": 2,
+   "snippet": "Femmes 1232 1245 1174 1275 1222 1235 1183 1248 1258 1288 1284 1653 1334 1360 1337 1324 1379 1303 ثانإ",
+   "status": "warn",
+   "note": {
+    "en": "1258 is nowhere on the 'Femmes' row; that row reads [27.2, 27.5, 26.0, 28.2, 27.0, 27.7]",
+    "fr": "1258 is nowhere on the 'Femmes' row; that row reads [27.2, 27.5, 26.0, 28.2, 27.0, 27.7]"
+   }
+  },
+  {
+   "indicator": "evolution_actifs",
+   "area": "femmes",
+   "period": "2024 T2",
+   "value": 1288,
+   "unit": {
+    "en": "thousand",
+    "fr": "thousand"
+   },
+   "page": 2,
+   "snippet": "Femmes 1232 1245 1174 1275 1222 1235 1183 1248 1258 1288 1284 1653 1334 1360 1337 1324 1379 1303 ثانإ",
+   "status": "warn",
+   "note": {
+    "en": "1288 is nowhere on the 'Femmes' row; that row reads [27.2, 27.5, 26.0, 28.2, 27.0, 27.7]",
+    "fr": "1288 is nowhere on the 'Femmes' row; that row reads [27.2, 27.5, 26.0, 28.2, 27.0, 27.7]"
+   }
+  },
+  {
+   "indicator": "evolution_actifs",
+   "area": "femmes",
+   "period": "2024 T3",
+   "value": 1284,
+   "unit": {
+    "en": "thousand",
+    "fr": "thousand"
+   },
+   "page": 2,
+   "snippet": "Femmes 1232 1245 1174 1275 1222 1235 1183 1248 1258 1288 1284 1653 1334 1360 1337 1324 1379 1303 ثانإ",
+   "status": "warn",
+   "note": {
+    "en": "1284 is nowhere on the 'Femmes' row; that row reads [27.2, 27.5, 26.0, 28.2, 27.0, 27.7]",
+    "fr": "1284 is nowhere on the 'Femmes' row; that row reads [27.2, 27.5, 26.0, 28.2, 27.0, 27.7]"
+   }
+  },
+  {
+   "indicator": "evolution_actifs",
+   "area": "femmes",
+   "period": "2024 T4",
+   "value": 1653,
+   "unit": {
+    "en": "thousand",
+    "fr": "thousand"
+   },
+   "page": 2,
+   "snippet": "Femmes 1232 1245 1174 1275 1222 1235 1183 1248 1258 1288 1284 1653 1334 1360 1337 1324 1379 1303 ثانإ",
+   "status": "warn",
+   "note": {
+    "en": "1653 is nowhere on the 'Femmes' row; that row reads [27.2, 27.5, 26.0, 28.2, 27.0, 27.7]",
+    "fr": "1653 is nowhere on the 'Femmes' row; that row reads [27.2, 27.5, 26.0, 28.2, 27.0, 27.7]"
+   }
+  },
+  {
+   "indicator": "evolution_actifs",
+   "area": "femmes",
+   "period": "2025 T1",
+   "value": 1334,
+   "unit": {
+    "en": "thousand",
+    "fr": "thousand"
+   },
+   "page": 2,
+   "snippet": "Femmes 1232 1245 1174 1275 1222 1235 1183 1248 1258 1288 1284 1653 1334 1360 1337 1324 1379 1303 ثانإ",
+   "status": "warn",
+   "note": {
+    "en": "1334 is nowhere on the 'Femmes' row; that row reads [27.2, 27.5, 26.0, 28.2, 27.0, 27.7]",
+    "fr": "1334 is nowhere on the 'Femmes' row; that row reads [27.2, 27.5, 26.0, 28.2, 27.0, 27.7]"
+   }
+  },
+  {
+   "indicator": "evolution_actifs",
+   "area": "femmes",
+   "period": "2025 T2",
+   "value": 1360,
+   "unit": {
+    "en": "thousand",
+    "fr": "thousand"
+   },
+   "page": 2,
+   "snippet": "Femmes 1232 1245 1174 1275 1222 1235 1183 1248 1258 1288 1284 1653 1334 1360 1337 1324 1379 1303 ثانإ",
+   "status": "warn",
+   "note": {
+    "en": "1360 is nowhere on the 'Femmes' row; that row reads [27.2, 27.5, 26.0, 28.2, 27.0, 27.7]",
+    "fr": "1360 is nowhere on the 'Femmes' row; that row reads [27.2, 27.5, 26.0, 28.2, 27.0, 27.7]"
+   }
+  },
+  {
+   "indicator": "evolution_actifs",
+   "area": "femmes",
+   "period": "2025 T3",
+   "value": 1337,
+   "unit": {
+    "en": "thousand",
+    "fr": "thousand"
+   },
+   "page": 2,
+   "snippet": "Femmes 1232 1245 1174 1275 1222 1235 1183 1248 1258 1288 1284 1653 1334 1360 1337 1324 1379 1303 ثانإ",
+   "status": "warn",
+   "note": {
+    "en": "1337 is nowhere on the 'Femmes' row; that row reads [27.2, 27.5, 26.0, 28.2, 27.0, 27.7]",
+    "fr": "1337 is nowhere on the 'Femmes' row; that row reads [27.2, 27.5, 26.0, 28.2, 27.0, 27.7]"
+   }
+  },
+  {
+   "indicator": "evolution_actifs",
+   "area": "femmes",
+   "period": "2025 T4",
+   "value": 1324,
+   "unit": {
+    "en": "thousand",
+    "fr": "thousand"
+   },
+   "page": 2,
+   "snippet": "Femmes 1232 1245 1174 1275 1222 1235 1183 1248 1258 1288 1284 1653 1334 1360 1337 1324 1379 1303 ثانإ",
+   "status": "warn",
+   "note": {
+    "en": "1324 is nowhere on the 'Femmes' row; that row reads [27.2, 27.5, 26.0, 28.2, 27.0, 27.7]",
+    "fr": "1324 is nowhere on the 'Femmes' row; that row reads [27.2, 27.5, 26.0, 28.2, 27.0, 27.7]"
+   }
+  },
+  {
+   "indicator": "evolution_actifs",
+   "area": "femmes",
+   "period": "2026 T1",
+   "value": 1379,
+   "unit": {
+    "en": "thousand",
+    "fr": "thousand"
+   },
+   "page": 2,
+   "snippet": "Femmes 1232 1245 1174 1275 1222 1235 1183 1248 1258 1288 1284 1653 1334 1360 1337 1324 1379 1303 ثانإ",
+   "status": "warn",
+   "note": {
+    "en": "1379 is nowhere on the 'Femmes' row; that row reads [27.2, 27.5, 26.0, 28.2, 27.0, 27.7]",
+    "fr": "1379 is nowhere on the 'Femmes' row; that row reads [27.2, 27.5, 26.0, 28.2, 27.0, 27.7]"
+   }
+  },
+  {
+   "indicator": "evolution_actifs",
+   "area": "femmes",
+   "period": "2026 T2",
+   "value": 1303,
+   "unit": {
+    "en": "thousand",
+    "fr": "thousand"
+   },
+   "page": 2,
+   "snippet": "Femmes 1232 1245 1174 1275 1222 1235 1183 1248 1258 1288 1284 1653 1334 1360 1337 1324 1379 1303 ثانإ",
+   "status": "warn",
+   "note": {
+    "en": "1303 is nowhere on the 'Femmes' row; that row reads [27.2, 27.5, 26.0, 28.2, 27.0, 27.7]",
+    "fr": "1303 is nowhere on the 'Femmes' row; that row reads [27.2, 27.5, 26.0, 28.2, 27.0, 27.7]"
+   }
+  },
+  {
+   "indicator": "evolution_actifs",
+   "area": "nat",
+   "period": "2022 T1",
+   "value": 4046,
+   "unit": {
+    "en": "thousand",
+    "fr": "thousand"
+   },
+   "page": 2,
+   "snippet": "Ensemble 4046 4081 4012 4124 4078 4096 4032 4084 4145 4146 4179 4532 4233 4260 4259 4255 4268 4191 عومجملا",
+   "status": "warn",
+   "note": {
+    "en": "4046 is nowhere on the 'Ensemble' row; that row reads [45.6, 46.0, 45.3, 46.5, 46.0, 46.3]",
+    "fr": "4046 is nowhere on the 'Ensemble' row; that row reads [45.6, 46.0, 45.3, 46.5, 46.0, 46.3]"
+   }
+  },
+  {
+   "indicator": "evolution_actifs",
+   "area": "nat",
+   "period": "2022 T2",
+   "value": 4081,
+   "unit": {
+    "en": "thousand",
+    "fr": "thousand"
+   },
+   "page": 2,
+   "snippet": "Ensemble 4046 4081 4012 4124 4078 4096 4032 4084 4145 4146 4179 4532 4233 4260 4259 4255 4268 4191 عومجملا",
+   "status": "warn",
+   "note": {
+    "en": "4081 is nowhere on the 'Ensemble' row; that row reads [45.6, 46.0, 45.3, 46.5, 46.0, 46.3]",
+    "fr": "4081 is nowhere on the 'Ensemble' row; that row reads [45.6, 46.0, 45.3, 46.5, 46.0, 46.3]"
+   }
+  },
+  {
+   "indicator": "evolution_actifs",
+   "area": "nat",
+   "period": "2022 T3",
+   "value": 4012,
+   "unit": {
+    "en": "thousand",
+    "fr": "thousand"
+   },
+   "page": 2,
+   "snippet": "Ensemble 4046 4081 4012 4124 4078 4096 4032 4084 4145 4146 4179 4532 4233 4260 4259 4255 4268 4191 عومجملا",
+   "status": "warn",
+   "note": {
+    "en": "4012 is nowhere on the 'Ensemble' row; that row reads [45.6, 46.0, 45.3, 46.5, 46.0, 46.3]",
+    "fr": "4012 is nowhere on the 'Ensemble' row; that row reads [45.6, 46.0, 45.3, 46.5, 46.0, 46.3]"
+   }
+  },
+  {
+   "indicator": "evolution_actifs",
+   "area": "nat",
+   "period": "2022 T4",
+   "value": 4124,
+   "unit": {
+    "en": "thousand",
+    "fr": "thousand"
+   },
+   "page": 2,
+   "snippet": "Ensemble 4046 4081 4012 4124 4078 4096 4032 4084 4145 4146 4179 4532 4233 4260 4259 4255 4268 4191 عومجملا",
+   "status": "warn",
+   "note": {
+    "en": "4124 is nowhere on the 'Ensemble' row; that row reads [45.6, 46.0, 45.3, 46.5, 46.0, 46.3]",
+    "fr": "4124 is nowhere on the 'Ensemble' row; that row reads [45.6, 46.0, 45.3, 46.5, 46.0, 46.3]"
+   }
+  },
+  {
+   "indicator": "evolution_actifs",
+   "area": "nat",
+   "period": "2023 T1",
+   "value": 4078,
+   "unit": {
+    "en": "thousand",
+    "fr": "thousand"
+   },
+   "page": 2,
+   "snippet": "Ensemble 4046 4081 4012 4124 4078 4096 4032 4084 4145 4146 4179 4532 4233 4260 4259 4255 4268 4191 عومجملا",
+   "status": "warn",
+   "note": {
+    "en": "4078 is nowhere on the 'Ensemble' row; that row reads [45.6, 46.0, 45.3, 46.5, 46.0, 46.3]",
+    "fr": "4078 is nowhere on the 'Ensemble' row; that row reads [45.6, 46.0, 45.3, 46.5, 46.0, 46.3]"
+   }
+  },
+  {
+   "indicator": "evolution_actifs",
+   "area": "nat",
+   "period": "2023 T2",
+   "value": 4096,
+   "unit": {
+    "en": "thousand",
+    "fr": "thousand"
+   },
+   "page": 2,
+   "snippet": "Ensemble 4046 4081 4012 4124 4078 4096 4032 4084 4145 4146 4179 4532 4233 4260 4259 4255 4268 4191 عومجملا",
+   "status": "warn",
+   "note": {
+    "en": "4096 is nowhere on the 'Ensemble' row; that row reads [45.6, 46.0, 45.3, 46.5, 46.0, 46.3]",
+    "fr": "4096 is nowhere on the 'Ensemble' row; that row reads [45.6, 46.0, 45.3, 46.5, 46.0, 46.3]"
+   }
+  },
+  {
+   "indicator": "evolution_actifs",
+   "area": "nat",
+   "period": "2023 T3",
+   "value": 4032,
+   "unit": {
+    "en": "thousand",
+    "fr": "thousand"
+   },
+   "page": 2,
+   "snippet": "Ensemble 4046 4081 4012 4124 4078 4096 4032 4084 4145 4146 4179 4532 4233 4260 4259 4255 4268 4191 عومجملا",
+   "status": "warn",
+   "note": {
+    "en": "4032 is nowhere on the 'Ensemble' row; that row reads [45.6, 46.0, 45.3, 46.5, 46.0, 46.3]",
+    "fr": "4032 is nowhere on the 'Ensemble' row; that row reads [45.6, 46.0, 45.3, 46.5, 46.0, 46.3]"
+   }
+  },
+  {
+   "indicator": "evolution_actifs",
+   "area": "nat",
+   "period": "2023 T4",
+   "value": 4084,
+   "unit": {
+    "en": "thousand",
+    "fr": "thousand"
+   },
+   "page": 2,
+   "snippet": "Ensemble 4046 4081 4012 4124 4078 4096 4032 4084 4145 4146 4179 4532 4233 4260 4259 4255 4268 4191 عومجملا",
+   "status": "warn",
+   "note": {
+    "en": "4084 is nowhere on the 'Ensemble' row; that row reads [45.6, 46.0, 45.3, 46.5, 46.0, 46.3]",
+    "fr": "4084 is nowhere on the 'Ensemble' row; that row reads [45.6, 46.0, 45.3, 46.5, 46.0, 46.3]"
+   }
+  },
+  {
+   "indicator": "evolution_actifs",
+   "area": "nat",
+   "period": "2024 T1",
+   "value": 4145,
+   "unit": {
+    "en": "thousand",
+    "fr": "thousand"
+   },
+   "page": 2,
+   "snippet": "Ensemble 4046 4081 4012 4124 4078 4096 4032 4084 4145 4146 4179 4532 4233 4260 4259 4255 4268 4191 عومجملا",
+   "status": "warn",
+   "note": {
+    "en": "4145 is nowhere on the 'Ensemble' row; that row reads [45.6, 46.0, 45.3, 46.5, 46.0, 46.3]",
+    "fr": "4145 is nowhere on the 'Ensemble' row; that row reads [45.6, 46.0, 45.3, 46.5, 46.0, 46.3]"
+   }
+  },
+  {
+   "indicator": "evolution_actifs",
+   "area": "nat",
+   "period": "2024 T2",
+   "value": 4146,
+   "unit": {
+    "en": "thousand",
+    "fr": "thousand"
+   },
+   "page": 2,
+   "snippet": "Ensemble 4046 4081 4012 4124 4078 4096 4032 4084 4145 4146 4179 4532 4233 4260 4259 4255 4268 4191 عومجملا",
+   "status": "warn",
+   "note": {
+    "en": "4146 is nowhere on the 'Ensemble' row; that row reads [45.6, 46.0, 45.3, 46.5, 46.0, 46.3]",
+    "fr": "4146 is nowhere on the 'Ensemble' row; that row reads [45.6, 46.0, 45.3, 46.5, 46.0, 46.3]"
+   }
+  },
+  {
+   "indicator": "evolution_actifs",
+   "area": "nat",
+   "period": "2024 T3",
+   "value": 4179,
+   "unit": {
+    "en": "thousand",
+    "fr": "thousand"
+   },
+   "page": 2,
+   "snippet": "Ensemble 4046 4081 4012 4124 4078 4096 4032 4084 4145 4146 4179 4532 4233 4260 4259 4255 4268 4191 عومجملا",
+   "status": "warn",
+   "note": {
+    "en": "4179 is nowhere on the 'Ensemble' row; that row reads [45.6, 46.0, 45.3, 46.5, 46.0, 46.3]",
+    "fr": "4179 is nowhere on the 'Ensemble' row; that row reads [45.6, 46.0, 45.3, 46.5, 46.0, 46.3]"
+   }
+  },
+  {
+   "indicator": "evolution_actifs",
+   "area": "nat",
+   "period": "2024 T4",
+   "value": 4532,
+   "unit": {
+    "en": "thousand",
+    "fr": "thousand"
+   },
+   "page": 2,
+   "snippet": "Ensemble 4046 4081 4012 4124 4078 4096 4032 4084 4145 4146 4179 4532 4233 4260 4259 4255 4268 4191 عومجملا",
+   "status": "warn",
+   "note": {
+    "en": "4532 is nowhere on the 'Ensemble' row; that row reads [45.6, 46.0, 45.3, 46.5, 46.0, 46.3]",
+    "fr": "4532 is nowhere on the 'Ensemble' row; that row reads [45.6, 46.0, 45.3, 46.5, 46.0, 46.3]"
+   }
+  },
+  {
+   "indicator": "evolution_actifs",
+   "area": "nat",
+   "period": "2025 T1",
+   "value": 4233,
+   "unit": {
+    "en": "thousand",
+    "fr": "thousand"
+   },
+   "page": 2,
+   "snippet": "Ensemble 4046 4081 4012 4124 4078 4096 4032 4084 4145 4146 4179 4532 4233 4260 4259 4255 4268 4191 عومجملا",
+   "status": "warn",
+   "note": {
+    "en": "4233 is nowhere on the 'Ensemble' row; that row reads [45.6, 46.0, 45.3, 46.5, 46.0, 46.3]",
+    "fr": "4233 is nowhere on the 'Ensemble' row; that row reads [45.6, 46.0, 45.3, 46.5, 46.0, 46.3]"
+   }
+  },
+  {
+   "indicator": "evolution_actifs",
+   "area": "nat",
+   "period": "2025 T2",
+   "value": 4260,
+   "unit": {
+    "en": "thousand",
+    "fr": "thousand"
+   },
+   "page": 2,
+   "snippet": "Ensemble 4046 4081 4012 4124 4078 4096 4032 4084 4145 4146 4179 4532 4233 4260 4259 4255 4268 4191 عومجملا",
+   "status": "warn",
+   "note": {
+    "en": "4260 is nowhere on the 'Ensemble' row; that row reads [45.6, 46.0, 45.3, 46.5, 46.0, 46.3]",
+    "fr": "4260 is nowhere on the 'Ensemble' row; that row reads [45.6, 46.0, 45.3, 46.5, 46.0, 46.3]"
+   }
+  },
+  {
+   "indicator": "evolution_actifs",
+   "area": "nat",
+   "period": "2025 T3",
+   "value": 4259,
+   "unit": {
+    "en": "thousand",
+    "fr": "thousand"
+   },
+   "page": 2,
+   "snippet": "Ensemble 4046 4081 4012 4124 4078 4096 4032 4084 4145 4146 4179 4532 4233 4260 4259 4255 4268 4191 عومجملا",
+   "status": "warn",
+   "note": {
+    "en": "4259 is nowhere on the 'Ensemble' row; that row reads [45.6, 46.0, 45.3, 46.5, 46.0, 46.3]",
+    "fr": "4259 is nowhere on the 'Ensemble' row; that row reads [45.6, 46.0, 45.3, 46.5, 46.0, 46.3]"
+   }
+  },
+  {
+   "indicator": "evolution_actifs",
+   "area": "nat",
+   "period": "2025 T4",
+   "value": 4255,
+   "unit": {
+    "en": "thousand",
+    "fr": "thousand"
+   },
+   "page": 2,
+   "snippet": "Ensemble 4046 4081 4012 4124 4078 4096 4032 4084 4145 4146 4179 4532 4233 4260 4259 4255 4268 4191 عومجملا",
+   "status": "warn",
+   "note": {
+    "en": "4255 is nowhere on the 'Ensemble' row; that row reads [45.6, 46.0, 45.3, 46.5, 46.0, 46.3]",
+    "fr": "4255 is nowhere on the 'Ensemble' row; that row reads [45.6, 46.0, 45.3, 46.5, 46.0, 46.3]"
+   }
+  },
+  {
+   "indicator": "evolution_actifs",
+   "area": "nat",
+   "period": "2026 T1",
+   "value": 4268,
+   "unit": {
+    "en": "thousand",
+    "fr": "thousand"
+   },
+   "page": 2,
+   "snippet": "Ensemble 4046 4081 4012 4124 4078 4096 4032 4084 4145 4146 4179 4532 4233 4260 4259 4255 4268 4191 عومجملا",
+   "status": "warn",
+   "note": {
+    "en": "4268 is nowhere on the 'Ensemble' row; that row reads [45.6, 46.0, 45.3, 46.5, 46.0, 46.3]",
+    "fr": "4268 is nowhere on the 'Ensemble' row; that row reads [45.6, 46.0, 45.3, 46.5, 46.0, 46.3]"
+   }
+  },
+  {
+   "indicator": "evolution_actifs",
+   "area": "nat",
+   "period": "2026 T2",
+   "value": 4191,
+   "unit": {
+    "en": "thousand",
+    "fr": "thousand"
+   },
+   "page": 2,
+   "snippet": "Ensemble 4046 4081 4012 4124 4078 4096 4032 4084 4145 4146 4179 4532 4233 4260 4259 4255 4268 4191 عومجملا",
+   "status": "warn",
+   "note": {
+    "en": "4191 is nowhere on the 'Ensemble' row; that row reads [45.6, 46.0, 45.3, 46.5, 46.0, 46.3]",
+    "fr": "4191 is nowhere on the 'Ensemble' row; that row reads [45.6, 46.0, 45.3, 46.5, 46.0, 46.3]"
+   }
+  },
+  {
+   "indicator": "evolution_taux_activite",
+   "area": "hommes",
+   "period": "2022 T1",
+   "value": 64.8,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 2,
+   "snippet": "Hommes 64.8 65.3 65.4 65.7 65.9 65.8 65.3 65.1 65.9 65.2 69.3 64 65.1 64.6 64.9 64.3 63.9 63.3 روكذ",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "evolution_taux_activite",
+   "area": "hommes",
+   "period": "2022 T2",
+   "value": 65.3,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 2,
+   "snippet": "Hommes 64.8 65.3 65.4 65.7 65.9 65.8 65.3 65.1 65.9 65.2 69.3 64 65.1 64.6 64.9 64.3 63.9 63.3 روكذ",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "evolution_taux_activite",
+   "area": "hommes",
+   "period": "2022 T3",
+   "value": 65.4,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 2,
+   "snippet": "Hommes 64.8 65.3 65.4 65.7 65.9 65.8 65.3 65.1 65.9 65.2 69.3 64 65.1 64.6 64.9 64.3 63.9 63.3 روكذ",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "evolution_taux_activite",
+   "area": "hommes",
+   "period": "2022 T4",
+   "value": 65.7,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 2,
+   "snippet": "Hommes 64.8 65.3 65.4 65.7 65.9 65.8 65.3 65.1 65.9 65.2 69.3 64 65.1 64.6 64.9 64.3 63.9 63.3 روكذ",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "evolution_taux_activite",
+   "area": "hommes",
+   "period": "2023 T1",
+   "value": 65.9,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 2,
+   "snippet": "Hommes 64.8 65.3 65.4 65.7 65.9 65.8 65.3 65.1 65.9 65.2 69.3 64 65.1 64.6 64.9 64.3 63.9 63.3 روكذ",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "evolution_taux_activite",
+   "area": "hommes",
+   "period": "2023 T2",
+   "value": 65.8,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 2,
+   "snippet": "Hommes 64.8 65.3 65.4 65.7 65.9 65.8 65.3 65.1 65.9 65.2 69.3 64 65.1 64.6 64.9 64.3 63.9 63.3 روكذ",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "evolution_taux_activite",
+   "area": "hommes",
+   "period": "2023 T3",
+   "value": 65.3,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 2,
+   "snippet": "Hommes 64.8 65.3 65.4 65.7 65.9 65.8 65.3 65.1 65.9 65.2 69.3 64 65.1 64.6 64.9 64.3 63.9 63.3 روكذ",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "evolution_taux_activite",
+   "area": "hommes",
+   "period": "2023 T4",
+   "value": 65.1,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 2,
+   "snippet": "Hommes 64.8 65.3 65.4 65.7 65.9 65.8 65.3 65.1 65.9 65.2 69.3 64 65.1 64.6 64.9 64.3 63.9 63.3 روكذ",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "evolution_taux_activite",
+   "area": "hommes",
+   "period": "2024 T1",
+   "value": 65.9,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 2,
+   "snippet": "Hommes 64.8 65.3 65.4 65.7 65.9 65.8 65.3 65.1 65.9 65.2 69.3 64 65.1 64.6 64.9 64.3 63.9 63.3 روكذ",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "evolution_taux_activite",
+   "area": "hommes",
+   "period": "2024 T2",
+   "value": 65.2,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 2,
+   "snippet": "Hommes 64.8 65.3 65.4 65.7 65.9 65.8 65.3 65.1 65.9 65.2 69.3 64 65.1 64.6 64.9 64.3 63.9 63.3 روكذ",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "evolution_taux_activite",
+   "area": "hommes",
+   "period": "2024 T3",
+   "value": 69.3,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 2,
+   "snippet": "Hommes 64.8 65.3 65.4 65.7 65.9 65.8 65.3 65.1 65.9 65.2 69.3 64 65.1 64.6 64.9 64.3 63.9 63.3 روكذ",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "evolution_taux_activite",
+   "area": "hommes",
+   "period": "2024 T4",
+   "value": 64.0,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 2,
+   "snippet": "Hommes 64.8 65.3 65.4 65.7 65.9 65.8 65.3 65.1 65.9 65.2 69.3 64 65.1 64.6 64.9 64.3 63.9 63.3 روكذ",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "evolution_taux_activite",
+   "area": "hommes",
+   "period": "2025 T1",
+   "value": 65.1,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 2,
+   "snippet": "Hommes 64.8 65.3 65.4 65.7 65.9 65.8 65.3 65.1 65.9 65.2 69.3 64 65.1 64.6 64.9 64.3 63.9 63.3 روكذ",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "evolution_taux_activite",
+   "area": "hommes",
+   "period": "2025 T2",
+   "value": 64.6,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 2,
+   "snippet": "Hommes 64.8 65.3 65.4 65.7 65.9 65.8 65.3 65.1 65.9 65.2 69.3 64 65.1 64.6 64.9 64.3 63.9 63.3 روكذ",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "evolution_taux_activite",
+   "area": "hommes",
+   "period": "2025 T3",
+   "value": 64.9,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 2,
+   "snippet": "Hommes 64.8 65.3 65.4 65.7 65.9 65.8 65.3 65.1 65.9 65.2 69.3 64 65.1 64.6 64.9 64.3 63.9 63.3 روكذ",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "evolution_taux_activite",
+   "area": "hommes",
+   "period": "2025 T4",
+   "value": 64.3,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 2,
+   "snippet": "Hommes 64.8 65.3 65.4 65.7 65.9 65.8 65.3 65.1 65.9 65.2 69.3 64 65.1 64.6 64.9 64.3 63.9 63.3 روكذ",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "evolution_taux_activite",
+   "area": "hommes",
+   "period": "2026 T1",
+   "value": 63.9,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 2,
+   "snippet": "Hommes 64.8 65.3 65.4 65.7 65.9 65.8 65.3 65.1 65.9 65.2 69.3 64 65.1 64.6 64.9 64.3 63.9 63.3 روكذ",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "evolution_taux_activite",
+   "area": "hommes",
+   "period": "2026 T2",
+   "value": 63.3,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 2,
+   "snippet": "Hommes 64.8 65.3 65.4 65.7 65.9 65.8 65.3 65.1 65.9 65.2 69.3 64 65.1 64.6 64.9 64.3 63.9 63.3 روكذ",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "evolution_taux_activite",
+   "area": "femmes",
+   "period": "2022 T1",
+   "value": 27.2,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 2,
+   "snippet": "Femmes 27.2 27.5 26 28.2 27 27.7 25.9 27.4 27.5 27.9 30.7 34.9 28.6 28.7 28.2 27.5 28.9 27.1 ثانإ",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "evolution_taux_activite",
+   "area": "femmes",
+   "period": "2022 T2",
+   "value": 27.5,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 2,
+   "snippet": "Femmes 27.2 27.5 26 28.2 27 27.7 25.9 27.4 27.5 27.9 30.7 34.9 28.6 28.7 28.2 27.5 28.9 27.1 ثانإ",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "evolution_taux_activite",
+   "area": "femmes",
+   "period": "2022 T3",
+   "value": 26.0,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 2,
+   "snippet": "Femmes 27.2 27.5 26 28.2 27 27.7 25.9 27.4 27.5 27.9 30.7 34.9 28.6 28.7 28.2 27.5 28.9 27.1 ثانإ",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "evolution_taux_activite",
+   "area": "femmes",
+   "period": "2022 T4",
+   "value": 28.2,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 2,
+   "snippet": "Femmes 27.2 27.5 26 28.2 27 27.7 25.9 27.4 27.5 27.9 30.7 34.9 28.6 28.7 28.2 27.5 28.9 27.1 ثانإ",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "evolution_taux_activite",
+   "area": "femmes",
+   "period": "2023 T1",
+   "value": 27.0,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 2,
+   "snippet": "Femmes 27.2 27.5 26 28.2 27 27.7 25.9 27.4 27.5 27.9 30.7 34.9 28.6 28.7 28.2 27.5 28.9 27.1 ثانإ",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "evolution_taux_activite",
+   "area": "femmes",
+   "period": "2023 T2",
+   "value": 27.7,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 2,
+   "snippet": "Femmes 27.2 27.5 26 28.2 27 27.7 25.9 27.4 27.5 27.9 30.7 34.9 28.6 28.7 28.2 27.5 28.9 27.1 ثانإ",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "evolution_taux_activite",
+   "area": "femmes",
+   "period": "2023 T3",
+   "value": 25.9,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 2,
+   "snippet": "Femmes 27.2 27.5 26 28.2 27 27.7 25.9 27.4 27.5 27.9 30.7 34.9 28.6 28.7 28.2 27.5 28.9 27.1 ثانإ",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "evolution_taux_activite",
+   "area": "femmes",
+   "period": "2023 T4",
+   "value": 27.4,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 2,
+   "snippet": "Femmes 27.2 27.5 26 28.2 27 27.7 25.9 27.4 27.5 27.9 30.7 34.9 28.6 28.7 28.2 27.5 28.9 27.1 ثانإ",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "evolution_taux_activite",
+   "area": "femmes",
+   "period": "2024 T1",
+   "value": 27.5,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 2,
+   "snippet": "Femmes 27.2 27.5 26 28.2 27 27.7 25.9 27.4 27.5 27.9 30.7 34.9 28.6 28.7 28.2 27.5 28.9 27.1 ثانإ",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "evolution_taux_activite",
+   "area": "femmes",
+   "period": "2024 T2",
+   "value": 27.7,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 2,
+   "snippet": "Femmes 27.2 27.5 26 28.2 27 27.7 25.9 27.4 27.5 27.9 30.7 34.9 28.6 28.7 28.2 27.5 28.9 27.1 ثانإ",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "evolution_taux_activite",
+   "area": "femmes",
+   "period": "2024 T3",
+   "value": 25.9,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 2,
+   "snippet": "Femmes 27.2 27.5 26 28.2 27 27.7 25.9 27.4 27.5 27.9 30.7 34.9 28.6 28.7 28.2 27.5 28.9 27.1 ثانإ",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "evolution_taux_activite",
+   "area": "femmes",
+   "period": "2024 T4",
+   "value": 27.4,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 2,
+   "snippet": "Femmes 27.2 27.5 26 28.2 27 27.7 25.9 27.4 27.5 27.9 30.7 34.9 28.6 28.7 28.2 27.5 28.9 27.1 ثانإ",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "evolution_taux_activite",
+   "area": "femmes",
+   "period": "2025 T1",
+   "value": 27.5,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 2,
+   "snippet": "Femmes 27.2 27.5 26 28.2 27 27.7 25.9 27.4 27.5 27.9 30.7 34.9 28.6 28.7 28.2 27.5 28.9 27.1 ثانإ",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "evolution_taux_activite",
+   "area": "femmes",
+   "period": "2025 T2",
+   "value": 27.7,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 2,
+   "snippet": "Femmes 27.2 27.5 26 28.2 27 27.7 25.9 27.4 27.5 27.9 30.7 34.9 28.6 28.7 28.2 27.5 28.9 27.1 ثانإ",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "evolution_taux_activite",
+   "area": "femmes",
+   "period": "2025 T3",
+   "value": 25.9,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 2,
+   "snippet": "Femmes 27.2 27.5 26 28.2 27 27.7 25.9 27.4 27.5 27.9 30.7 34.9 28.6 28.7 28.2 27.5 28.9 27.1 ثانإ",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "evolution_taux_activite",
+   "area": "femmes",
+   "period": "2025 T4",
+   "value": 27.4,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 2,
+   "snippet": "Femmes 27.2 27.5 26 28.2 27 27.7 25.9 27.4 27.5 27.9 30.7 34.9 28.6 28.7 28.2 27.5 28.9 27.1 ثانإ",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "evolution_taux_activite",
+   "area": "femmes",
+   "period": "2026 T1",
+   "value": 28.6,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 2,
+   "snippet": "Femmes 27.2 27.5 26 28.2 27 27.7 25.9 27.4 27.5 27.9 30.7 34.9 28.6 28.7 28.2 27.5 28.9 27.1 ثانإ",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "evolution_taux_activite",
+   "area": "femmes",
+   "period": "2026 T2",
+   "value": 28.7,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 2,
+   "snippet": "Femmes 27.2 27.5 26 28.2 27 27.7 25.9 27.4 27.5 27.9 30.7 34.9 28.6 28.7 28.2 27.5 28.9 27.1 ثانإ",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "evolution_taux_activite",
+   "area": "femmes",
+   "period": "2026 T3",
+   "value": 28.2,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 2,
+   "snippet": "Femmes 27.2 27.5 26 28.2 27 27.7 25.9 27.4 27.5 27.9 30.7 34.9 28.6 28.7 28.2 27.5 28.9 27.1 ثانإ",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "evolution_taux_activite",
+   "area": "femmes",
+   "period": "2026 T4",
+   "value": 27.1,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 2,
+   "snippet": "Femmes 27.2 27.5 26 28.2 27 27.7 25.9 27.4 27.5 27.9 30.7 34.9 28.6 28.7 28.2 27.5 28.9 27.1 ثانإ",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "evolution_taux_activite",
+   "area": "nat",
+   "period": "2022 T1",
+   "value": 45.6,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 2,
+   "snippet": "Ensemble 45.6 46 45.3 46.5 46 46.3 45.2 45.8 46.3 46 46.2 49.1 46.4 46.2 46.1 45.4 45.9 44.7 عومجملا",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "evolution_taux_activite",
+   "area": "nat",
+   "period": "2022 T2",
+   "value": 46.0,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 2,
+   "snippet": "Ensemble 45.6 46 45.3 46.5 46 46.3 45.2 45.8 46.3 46 46.2 49.1 46.4 46.2 46.1 45.4 45.9 44.7 عومجملا",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "evolution_taux_activite",
+   "area": "nat",
+   "period": "2022 T3",
+   "value": 45.3,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 2,
+   "snippet": "Ensemble 45.6 46 45.3 46.5 46 46.3 45.2 45.8 46.3 46 46.2 49.1 46.4 46.2 46.1 45.4 45.9 44.7 عومجملا",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "evolution_taux_activite",
+   "area": "nat",
+   "period": "2022 T4",
+   "value": 46.5,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 2,
+   "snippet": "Ensemble 45.6 46 45.3 46.5 46 46.3 45.2 45.8 46.3 46 46.2 49.1 46.4 46.2 46.1 45.4 45.9 44.7 عومجملا",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "evolution_taux_activite",
+   "area": "nat",
+   "period": "2023 T1",
+   "value": 46.0,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 2,
+   "snippet": "Ensemble 45.6 46 45.3 46.5 46 46.3 45.2 45.8 46.3 46 46.2 49.1 46.4 46.2 46.1 45.4 45.9 44.7 عومجملا",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "evolution_taux_activite",
+   "area": "nat",
+   "period": "2023 T2",
+   "value": 46.3,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 2,
+   "snippet": "Ensemble 45.6 46 45.3 46.5 46 46.3 45.2 45.8 46.3 46 46.2 49.1 46.4 46.2 46.1 45.4 45.9 44.7 عومجملا",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "evolution_taux_activite",
+   "area": "nat",
+   "period": "2023 T3",
+   "value": 45.2,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 2,
+   "snippet": "Ensemble 45.6 46 45.3 46.5 46 46.3 45.2 45.8 46.3 46 46.2 49.1 46.4 46.2 46.1 45.4 45.9 44.7 عومجملا",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "evolution_taux_activite",
+   "area": "nat",
+   "period": "2023 T4",
+   "value": 45.8,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 2,
+   "snippet": "Ensemble 45.6 46 45.3 46.5 46 46.3 45.2 45.8 46.3 46 46.2 49.1 46.4 46.2 46.1 45.4 45.9 44.7 عومجملا",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "evolution_taux_activite",
+   "area": "nat",
+   "period": "2024 T1",
+   "value": 46.3,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 2,
+   "snippet": "Ensemble 45.6 46 45.3 46.5 46 46.3 45.2 45.8 46.3 46 46.2 49.1 46.4 46.2 46.1 45.4 45.9 44.7 عومجملا",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "evolution_taux_activite",
+   "area": "nat",
+   "period": "2024 T2",
+   "value": 46.0,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 2,
+   "snippet": "Ensemble 45.6 46 45.3 46.5 46 46.3 45.2 45.8 46.3 46 46.2 49.1 46.4 46.2 46.1 45.4 45.9 44.7 عومجملا",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "evolution_taux_activite",
+   "area": "nat",
+   "period": "2024 T3",
+   "value": 45.2,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 2,
+   "snippet": "Ensemble 45.6 46 45.3 46.5 46 46.3 45.2 45.8 46.3 46 46.2 49.1 46.4 46.2 46.1 45.4 45.9 44.7 عومجملا",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "evolution_taux_activite",
+   "area": "nat",
+   "period": "2024 T4",
+   "value": 45.8,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 2,
+   "snippet": "Ensemble 45.6 46 45.3 46.5 46 46.3 45.2 45.8 46.3 46 46.2 49.1 46.4 46.2 46.1 45.4 45.9 44.7 عومجملا",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "evolution_taux_activite",
+   "area": "nat",
+   "period": "2025 T1",
+   "value": 46.3,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 2,
+   "snippet": "Ensemble 45.6 46 45.3 46.5 46 46.3 45.2 45.8 46.3 46 46.2 49.1 46.4 46.2 46.1 45.4 45.9 44.7 عومجملا",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "evolution_taux_activite",
+   "area": "nat",
+   "period": "2025 T2",
+   "value": 46.2,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 2,
+   "snippet": "Ensemble 45.6 46 45.3 46.5 46 46.3 45.2 45.8 46.3 46 46.2 49.1 46.4 46.2 46.1 45.4 45.9 44.7 عومجملا",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "evolution_taux_activite",
+   "area": "nat",
+   "period": "2025 T3",
+   "value": 46.1,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 2,
+   "snippet": "Ensemble 45.6 46 45.3 46.5 46 46.3 45.2 45.8 46.3 46 46.2 49.1 46.4 46.2 46.1 45.4 45.9 44.7 عومجملا",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "evolution_taux_activite",
+   "area": "nat",
+   "period": "2025 T4",
+   "value": 45.4,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 2,
+   "snippet": "Ensemble 45.6 46 45.3 46.5 46 46.3 45.2 45.8 46.3 46 46.2 49.1 46.4 46.2 46.1 45.4 45.9 44.7 عومجملا",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "evolution_taux_activite",
+   "area": "nat",
+   "period": "2026 T1",
+   "value": 45.9,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 2,
+   "snippet": "Ensemble 45.6 46 45.3 46.5 46 46.3 45.2 45.8 46.3 46 46.2 49.1 46.4 46.2 46.1 45.4 45.9 44.7 عومجملا",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "evolution_taux_activite",
+   "area": "nat",
+   "period": "2026 T2",
+   "value": 44.7,
+   "unit": {
+    "en": "%",
+    "fr": "%"
+   },
+   "page": 2,
+   "snippet": "Ensemble 45.6 46 45.3 46.5 46 46.3 45.2 45.8 46.3 46 46.2 49.1 46.4 46.2 46.1 45.4 45.9 44.7 عومجملا",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "evolution_occupes_sexe",
+   "area": "hommes",
+   "period": "2022 T1",
+   "value": 2418,
+   "unit": {
+    "en": "thousand",
+    "fr": "mille"
+   },
+   "page": 3,
+   "snippet": "Hommes 2418 2465 2464 2481 2459 2484 2468 2446 2494 2470 2511 2514 2506 2534 2569 2562 2532 2546 روكذ",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "evolution_occupes_sexe",
+   "area": "hommes",
+   "period": "2022 T2",
+   "value": 2465,
+   "unit": {
+    "en": "thousand",
+    "fr": "mille"
+   },
+   "page": 3,
+   "snippet": "Hommes 2418 2465 2464 2481 2459 2484 2468 2446 2494 2470 2511 2514 2506 2534 2569 2562 2532 2546 روكذ",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "evolution_occupes_sexe",
+   "area": "hommes",
+   "period": "2022 T3",
+   "value": 2464,
+   "unit": {
+    "en": "thousand",
+    "fr": "mille"
+   },
+   "page": 3,
+   "snippet": "Hommes 2418 2465 2464 2481 2459 2484 2468 2446 2494 2470 2511 2514 2506 2534 2569 2562 2532 2546 روكذ",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "evolution_occupes_sexe",
+   "area": "hommes",
+   "period": "2022 T4",
+   "value": 2481,
+   "unit": {
+    "en": "thousand",
+    "fr": "mille"
+   },
+   "page": 3,
+   "snippet": "Hommes 2418 2465 2464 2481 2459 2484 2468 2446 2494 2470 2511 2514 2506 2534 2569 2562 2532 2546 روكذ",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "evolution_occupes_sexe",
+   "area": "hommes",
+   "period": "2023 T1",
+   "value": 2459,
+   "unit": {
+    "en": "thousand",
+    "fr": "mille"
+   },
+   "page": 3,
+   "snippet": "Hommes 2418 2465 2464 2481 2459 2484 2468 2446 2494 2470 2511 2514 2506 2534 2569 2562 2532 2546 روكذ",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "evolution_occupes_sexe",
+   "area": "hommes",
+   "period": "2023 T2",
+   "value": 2484,
+   "unit": {
+    "en": "thousand",
+    "fr": "mille"
+   },
+   "page": 3,
+   "snippet": "Hommes 2418 2465 2464 2481 2459 2484 2468 2446 2494 2470 2511 2514 2506 2534 2569 2562 2532 2546 روكذ",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "evolution_occupes_sexe",
+   "area": "hommes",
+   "period": "2023 T3",
+   "value": 2468,
+   "unit": {
+    "en": "thousand",
+    "fr": "mille"
+   },
+   "page": 3,
+   "snippet": "Hommes 2418 2465 2464 2481 2459 2484 2468 2446 2494 2470 2511 2514 2506 2534 2569 2562 2532 2546 روكذ",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "evolution_occupes_sexe",
+   "area": "hommes",
+   "period": "2023 T4",
+   "value": 2446,
+   "unit": {
+    "en": "thousand",
+    "fr": "mille"
+   },
+   "page": 3,
+   "snippet": "Hommes 2418 2465 2464 2481 2459 2484 2468 2446 2494 2470 2511 2514 2506 2534 2569 2562 2532 2546 روكذ",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "evolution_occupes_sexe",
+   "area": "hommes",
+   "period": "2024 T1",
+   "value": 2494,
+   "unit": {
+    "en": "thousand",
+    "fr": "mille"
+   },
+   "page": 3,
+   "snippet": "Hommes 2418 2465 2464 2481 2459 2484 2468 2446 2494 2470 2511 2514 2506 2534 2569 2562 2532 2546 روكذ",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "evolution_occupes_sexe",
+   "area": "hommes",
+   "period": "2024 T2",
+   "value": 2470,
+   "unit": {
+    "en": "thousand",
+    "fr": "mille"
+   },
+   "page": 3,
+   "snippet": "Hommes 2418 2465 2464 2481 2459 2484 2468 2446 2494 2470 2511 2514 2506 2534 2569 2562 2532 2546 روكذ",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "evolution_occupes_sexe",
+   "area": "hommes",
+   "period": "2024 T3",
+   "value": 2511,
+   "unit": {
+    "en": "thousand",
+    "fr": "mille"
+   },
+   "page": 3,
+   "snippet": "Hommes 2418 2465 2464 2481 2459 2484 2468 2446 2494 2470 2511 2514 2506 2534 2569 2562 2532 2546 روكذ",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "evolution_occupes_sexe",
+   "area": "hommes",
+   "period": "2024 T4",
+   "value": 2514,
+   "unit": {
+    "en": "thousand",
+    "fr": "mille"
+   },
+   "page": 3,
+   "snippet": "Hommes 2418 2465 2464 2481 2459 2484 2468 2446 2494 2470 2511 2514 2506 2534 2569 2562 2532 2546 روكذ",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "evolution_occupes_sexe",
+   "area": "hommes",
+   "period": "2025 T1",
+   "value": 2506,
+   "unit": {
+    "en": "thousand",
+    "fr": "mille"
+   },
+   "page": 3,
+   "snippet": "Hommes 2418 2465 2464 2481 2459 2484 2468 2446 2494 2470 2511 2514 2506 2534 2569 2562 2532 2546 روكذ",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "evolution_occupes_sexe",
+   "area": "hommes",
+   "period": "2025 T2",
+   "value": 2534,
+   "unit": {
+    "en": "thousand",
+    "fr": "mille"
+   },
+   "page": 3,
+   "snippet": "Hommes 2418 2465 2464 2481 2459 2484 2468 2446 2494 2470 2511 2514 2506 2534 2569 2562 2532 2546 روكذ",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "evolution_occupes_sexe",
+   "area": "hommes",
+   "period": "2025 T3",
+   "value": 2569,
+   "unit": {
+    "en": "thousand",
+    "fr": "mille"
+   },
+   "page": 3,
+   "snippet": "Hommes 2418 2465 2464 2481 2459 2484 2468 2446 2494 2470 2511 2514 2506 2534 2569 2562 2532 2546 روكذ",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "evolution_occupes_sexe",
+   "area": "hommes",
+   "period": "2025 T4",
+   "value": 2562,
+   "unit": {
+    "en": "thousand",
+    "fr": "mille"
+   },
+   "page": 3,
+   "snippet": "Hommes 2418 2465 2464 2481 2459 2484 2468 2446 2494 2470 2511 2514 2506 2534 2569 2562 2532 2546 روكذ",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "evolution_occupes_sexe",
+   "area": "hommes",
+   "period": "2026 T1",
+   "value": 2532,
+   "unit": {
+    "en": "thousand",
+    "fr": "mille"
+   },
+   "page": 3,
+   "snippet": "Hommes 2418 2465 2464 2481 2459 2484 2468 2446 2494 2470 2511 2514 2506 2534 2569 2562 2532 2546 روكذ",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "evolution_occupes_sexe",
+   "area": "hommes",
+   "period": "2026 T2",
+   "value": 2546,
+   "unit": {
+    "en": "thousand",
+    "fr": "mille"
+   },
+   "page": 3,
+   "snippet": "Hommes 2418 2465 2464 2481 2459 2484 2468 2446 2494 2470 2511 2514 2506 2534 2569 2562 2532 2546 روكذ",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "evolution_occupes_sexe",
+   "area": "femmes",
+   "period": "2022 T1",
+   "value": 975,
+   "unit": {
+    "en": "thousand",
+    "fr": "mille"
+   },
+   "page": 3,
+   "snippet": "Femmes 975 990 934 1019 964 974 926 970.8 982 1015 1001 1271 1064 1075 1037 1048 1094 1022 ثانإ",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "evolution_occupes_sexe",
+   "area": "femmes",
+   "period": "2022 T2",
+   "value": 990,
+   "unit": {
+    "en": "thousand",
+    "fr": "mille"
+   },
+   "page": 3,
+   "snippet": "Femmes 975 990 934 1019 964 974 926 970.8 982 1015 1001 1271 1064 1075 1037 1048 1094 1022 ثانإ",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "evolution_occupes_sexe",
+   "area": "femmes",
+   "period": "2022 T3",
+   "value": 934,
+   "unit": {
+    "en": "thousand",
+    "fr": "mille"
+   },
+   "page": 3,
+   "snippet": "Femmes 975 990 934 1019 964 974 926 970.8 982 1015 1001 1271 1064 1075 1037 1048 1094 1022 ثانإ",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "evolution_occupes_sexe",
+   "area": "femmes",
+   "period": "2022 T4",
+   "value": 1019,
+   "unit": {
+    "en": "thousand",
+    "fr": "mille"
+   },
+   "page": 3,
+   "snippet": "Femmes 975 990 934 1019 964 974 926 970.8 982 1015 1001 1271 1064 1075 1037 1048 1094 1022 ثانإ",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "evolution_occupes_sexe",
+   "area": "femmes",
+   "period": "2023 T1",
+   "value": 964,
+   "unit": {
+    "en": "thousand",
+    "fr": "mille"
+   },
+   "page": 3,
+   "snippet": "Femmes 975 990 934 1019 964 974 926 970.8 982 1015 1001 1271 1064 1075 1037 1048 1094 1022 ثانإ",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "evolution_occupes_sexe",
+   "area": "femmes",
+   "period": "2023 T2",
+   "value": 974,
+   "unit": {
+    "en": "thousand",
+    "fr": "mille"
+   },
+   "page": 3,
+   "snippet": "Femmes 975 990 934 1019 964 974 926 970.8 982 1015 1001 1271 1064 1075 1037 1048 1094 1022 ثانإ",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "evolution_occupes_sexe",
+   "area": "femmes",
+   "period": "2023 T3",
+   "value": 926,
+   "unit": {
+    "en": "thousand",
+    "fr": "mille"
+   },
+   "page": 3,
+   "snippet": "Femmes 975 990 934 1019 964 974 926 970.8 982 1015 1001 1271 1064 1075 1037 1048 1094 1022 ثانإ",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "evolution_occupes_sexe",
+   "area": "femmes",
+   "period": "2023 T4",
+   "value": 970.8,
+   "unit": {
+    "en": "thousand",
+    "fr": "mille"
+   },
+   "page": 3,
+   "snippet": "Femmes 975 990 934 1019 964 974 926 970.8 982 1015 1001 1271 1064 1075 1037 1048 1094 1022 ثانإ",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "evolution_occupes_sexe",
+   "area": "femmes",
+   "period": "2024 T1",
+   "value": 982,
+   "unit": {
+    "en": "thousand",
+    "fr": "mille"
+   },
+   "page": 3,
+   "snippet": "Femmes 975 990 934 1019 964 974 926 970.8 982 1015 1001 1271 1064 1075 1037 1048 1094 1022 ثانإ",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "evolution_occupes_sexe",
+   "area": "femmes",
+   "period": "2024 T2",
+   "value": 1015,
+   "unit": {
+    "en": "thousand",
+    "fr": "mille"
+   },
+   "page": 3,
+   "snippet": "Femmes 975 990 934 1019 964 974 926 970.8 982 1015 1001 1271 1064 1075 1037 1048 1094 1022 ثانإ",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "evolution_occupes_sexe",
+   "area": "femmes",
+   "period": "2024 T3",
+   "value": 1001,
+   "unit": {
+    "en": "thousand",
+    "fr": "mille"
+   },
+   "page": 3,
+   "snippet": "Femmes 975 990 934 1019 964 974 926 970.8 982 1015 1001 1271 1064 1075 1037 1048 1094 1022 ثانإ",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "evolution_occupes_sexe",
+   "area": "femmes",
+   "period": "2024 T4",
+   "value": 1271,
+   "unit": {
+    "en": "thousand",
+    "fr": "mille"
+   },
+   "page": 3,
+   "snippet": "Femmes 975 990 934 1019 964 974 926 970.8 982 1015 1001 1271 1064 1075 1037 1048 1094 1022 ثانإ",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "evolution_occupes_sexe",
+   "area": "femmes",
+   "period": "2025 T1",
+   "value": 1064,
+   "unit": {
+    "en": "thousand",
+    "fr": "mille"
+   },
+   "page": 3,
+   "snippet": "Femmes 975 990 934 1019 964 974 926 970.8 982 1015 1001 1271 1064 1075 1037 1048 1094 1022 ثانإ",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "evolution_occupes_sexe",
+   "area": "femmes",
+   "period": "2025 T2",
+   "value": 1075,
+   "unit": {
+    "en": "thousand",
+    "fr": "mille"
+   },
+   "page": 3,
+   "snippet": "Femmes 975 990 934 1019 964 974 926 970.8 982 1015 1001 1271 1064 1075 1037 1048 1094 1022 ثانإ",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "evolution_occupes_sexe",
+   "area": "femmes",
+   "period": "2025 T3",
+   "value": 1037,
+   "unit": {
+    "en": "thousand",
+    "fr": "mille"
+   },
+   "page": 3,
+   "snippet": "Femmes 975 990 934 1019 964 974 926 970.8 982 1015 1001 1271 1064 1075 1037 1048 1094 1022 ثانإ",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "evolution_occupes_sexe",
+   "area": "femmes",
+   "period": "2025 T4",
+   "value": 1048,
+   "unit": {
+    "en": "thousand",
+    "fr": "mille"
+   },
+   "page": 3,
+   "snippet": "Femmes 975 990 934 1019 964 974 926 970.8 982 1015 1001 1271 1064 1075 1037 1048 1094 1022 ثانإ",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "evolution_occupes_sexe",
+   "area": "femmes",
+   "period": "2026 T1",
+   "value": 1094,
+   "unit": {
+    "en": "thousand",
+    "fr": "mille"
+   },
+   "page": 3,
+   "snippet": "Femmes 975 990 934 1019 964 974 926 970.8 982 1015 1001 1271 1064 1075 1037 1048 1094 1022 ثانإ",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "evolution_occupes_sexe",
+   "area": "femmes",
+   "period": "2026 T2",
+   "value": 1022,
+   "unit": {
+    "en": "thousand",
+    "fr": "mille"
+   },
+   "page": 3,
+   "snippet": "Femmes 975 990 934 1019 964 974 926 970.8 982 1015 1001 1271 1064 1075 1037 1048 1094 1022 ثانإ",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "evolution_occupes_sexe",
+   "area": "nat",
+   "period": "2022 T1",
+   "value": 3393,
+   "unit": {
+    "en": "thousand",
+    "fr": "mille"
+   },
+   "page": 3,
+   "snippet": "Ensemble 3393 3454 3398 3500 3422 3458 3394 3416 3476 3484 3512 3784 3569 3609 3606 3610 3626 3568 عومجملا",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "evolution_occupes_sexe",
+   "area": "nat",
+   "period": "2022 T2",
+   "value": 3454,
+   "unit": {
+    "en": "thousand",
+    "fr": "mille"
+   },
+   "page": 3,
+   "snippet": "Ensemble 3393 3454 3398 3500 3422 3458 3394 3416 3476 3484 3512 3784 3569 3609 3606 3610 3626 3568 عومجملا",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "evolution_occupes_sexe",
+   "area": "nat",
+   "period": "2022 T3",
+   "value": 3398,
+   "unit": {
+    "en": "thousand",
+    "fr": "mille"
+   },
+   "page": 3,
+   "snippet": "Ensemble 3393 3454 3398 3500 3422 3458 3394 3416 3476 3484 3512 3784 3569 3609 3606 3610 3626 3568 عومجملا",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "evolution_occupes_sexe",
+   "area": "nat",
+   "period": "2022 T4",
+   "value": 3500,
+   "unit": {
+    "en": "thousand",
+    "fr": "mille"
+   },
+   "page": 3,
+   "snippet": "Ensemble 3393 3454 3398 3500 3422 3458 3394 3416 3476 3484 3512 3784 3569 3609 3606 3610 3626 3568 عومجملا",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "evolution_occupes_sexe",
+   "area": "nat",
+   "period": "2023 T1",
+   "value": 3422,
+   "unit": {
+    "en": "thousand",
+    "fr": "mille"
+   },
+   "page": 3,
+   "snippet": "Ensemble 3393 3454 3398 3500 3422 3458 3394 3416 3476 3484 3512 3784 3569 3609 3606 3610 3626 3568 عومجملا",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "evolution_occupes_sexe",
+   "area": "nat",
+   "period": "2023 T2",
+   "value": 3458,
+   "unit": {
+    "en": "thousand",
+    "fr": "mille"
+   },
+   "page": 3,
+   "snippet": "Ensemble 3393 3454 3398 3500 3422 3458 3394 3416 3476 3484 3512 3784 3569 3609 3606 3610 3626 3568 عومجملا",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "evolution_occupes_sexe",
+   "area": "nat",
+   "period": "2023 T3",
+   "value": 3394,
+   "unit": {
+    "en": "thousand",
+    "fr": "mille"
+   },
+   "page": 3,
+   "snippet": "Ensemble 3393 3454 3398 3500 3422 3458 3394 3416 3476 3484 3512 3784 3569 3609 3606 3610 3626 3568 عومجملا",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "evolution_occupes_sexe",
+   "area": "nat",
+   "period": "2023 T4",
+   "value": 3416,
+   "unit": {
+    "en": "thousand",
+    "fr": "mille"
+   },
+   "page": 3,
+   "snippet": "Ensemble 3393 3454 3398 3500 3422 3458 3394 3416 3476 3484 3512 3784 3569 3609 3606 3610 3626 3568 عومجملا",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "evolution_occupes_sexe",
+   "area": "nat",
+   "period": "2024 T1",
+   "value": 3476,
+   "unit": {
+    "en": "thousand",
+    "fr": "mille"
+   },
+   "page": 3,
+   "snippet": "Ensemble 3393 3454 3398 3500 3422 3458 3394 3416 3476 3484 3512 3784 3569 3609 3606 3610 3626 3568 عومجملا",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "evolution_occupes_sexe",
+   "area": "nat",
+   "period": "2024 T2",
+   "value": 3484,
+   "unit": {
+    "en": "thousand",
+    "fr": "mille"
+   },
+   "page": 3,
+   "snippet": "Ensemble 3393 3454 3398 3500 3422 3458 3394 3416 3476 3484 3512 3784 3569 3609 3606 3610 3626 3568 عومجملا",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "evolution_occupes_sexe",
+   "area": "nat",
+   "period": "2024 T3",
+   "value": 3512,
+   "unit": {
+    "en": "thousand",
+    "fr": "mille"
+   },
+   "page": 3,
+   "snippet": "Ensemble 3393 3454 3398 3500 3422 3458 3394 3416 3476 3484 3512 3784 3569 3609 3606 3610 3626 3568 عومجملا",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "evolution_occupes_sexe",
+   "area": "nat",
+   "period": "2024 T4",
+   "value": 3784,
+   "unit": {
+    "en": "thousand",
+    "fr": "mille"
+   },
+   "page": 3,
+   "snippet": "Ensemble 3393 3454 3398 3500 3422 3458 3394 3416 3476 3484 3512 3784 3569 3609 3606 3610 3626 3568 عومجملا",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "evolution_occupes_sexe",
+   "area": "nat",
+   "period": "2025 T1",
+   "value": 3569,
+   "unit": {
+    "en": "thousand",
+    "fr": "mille"
+   },
+   "page": 3,
+   "snippet": "Ensemble 3393 3454 3398 3500 3422 3458 3394 3416 3476 3484 3512 3784 3569 3609 3606 3610 3626 3568 عومجملا",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "evolution_occupes_sexe",
+   "area": "nat",
+   "period": "2025 T2",
+   "value": 3609,
+   "unit": {
+    "en": "thousand",
+    "fr": "mille"
+   },
+   "page": 3,
+   "snippet": "Ensemble 3393 3454 3398 3500 3422 3458 3394 3416 3476 3484 3512 3784 3569 3609 3606 3610 3626 3568 عومجملا",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "evolution_occupes_sexe",
+   "area": "nat",
+   "period": "2025 T3",
+   "value": 3606,
+   "unit": {
+    "en": "thousand",
+    "fr": "mille"
+   },
+   "page": 3,
+   "snippet": "Ensemble 3393 3454 3398 3500 3422 3458 3394 3416 3476 3484 3512 3784 3569 3609 3606 3610 3626 3568 عومجملا",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "evolution_occupes_sexe",
+   "area": "nat",
+   "period": "2025 T4",
+   "value": 3610,
+   "unit": {
+    "en": "thousand",
+    "fr": "mille"
+   },
+   "page": 3,
+   "snippet": "Ensemble 3393 3454 3398 3500 3422 3458 3394 3416 3476 3484 3512 3784 3569 3609 3606 3610 3626 3568 عومجملا",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "evolution_occupes_sexe",
+   "area": "nat",
+   "period": "2026 T1",
+   "value": 3626,
+   "unit": {
+    "en": "thousand",
+    "fr": "mille"
+   },
+   "page": 3,
+   "snippet": "Ensemble 3393 3454 3398 3500 3422 3458 3394 3416 3476 3484 3512 3784 3569 3609 3606 3610 3626 3568 عومجملا",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "evolution_occupes_sexe",
+   "area": "nat",
+   "period": "2026 T2",
+   "value": 3568,
+   "unit": {
+    "en": "thousand",
+    "fr": "mille"
+   },
+   "page": 3,
+   "snippet": "Ensemble 3393 3454 3398 3500 3422 3458 3394 3416 3476 3484 3512 3784 3569 3609 3606 3610 3626 3568 عومجملا",
+   "status": "ok",
+   "note": null
+  }
+ ],
+ "indicators": {
+  "evolution_actifs": {
+   "fr": "Evolution des actifs )en millier( selon le sexe 2022-2026",
+   "en": "Change in active population (thousands) by sex 2022-2026"
+  },
+  "evolution_taux_activite": {
+   "fr": "Evolution du taux d'activité selon le sexe 2022-2026",
+   "en": "Change in activity rate by sex 2022-2026"
+  },
+  "evolution_occupes_sexe": {
+   "fr": "Evolution des occupés (en millier) selon le sexe",
+   "en": "Change in employed (thousands) by sex"
+  }
+ },
+ "i18n": {
+  "en": {
+   "sourceDoc": "Source publication",
+   "tabOverview": "Overview",
+   "tabData": "Data & sources",
+   "filterLabel": "Areas",
+   "reset": "Reset",
+   "searchPh": "Search an indicator, an area, a year…",
+   "btnCsv": "Download CSV",
+   "btnJson": "Download JSON",
+   "thIndicator": "Indicator",
+   "thArea": "Area",
+   "thPeriod": "Period",
+   "thValue": "Value",
+   "thUnit": "Unit",
+   "thPage": "Page",
+   "thStatus": "Check",
+   "noRows": "No figure matches this search.",
+   "statusOk": "Verified",
+   "statusWarn": "To review",
+   "provLabel": "Read from the source document, page",
+   "calloutTitle": "Read this before reusing the figures",
+   "calloutBody": "These figures were extracted from a PDF by a language model and then checked automatically against the source text. Rows marked “To review” failed at least one check and have not been confirmed by a statistician. Always cite the original publication, not this dashboard.",
+   "dataTitle": "Data & sources",
+   "dataLede": "Every figure on this dashboard, with the page it came from and the line of text it was read from. Search, sort, open a row to see the source, export.",
+   "limTitle": "Limitations",
+   "methTitle": "How this dashboard was built",
+   "methBody": "Text was extracted from the PDF page by page. A rules-based reader and a language model each transcribed the tables independently, and every cell was checked for page provenance, quoted evidence, unit and range, reconciliation with published totals, and agreement between the two readings. The notebook, the prompts and the verification report are in the repository.",
+   "fSource": "Source",
+   "fLicence": "Licence",
+   "fBuilt": "Built with",
+   "fContact": "Contact",
+   "fBuiltBody": "Python, an LLM extraction pipeline, Chart.js. No tracking, no cookies, no server — a single HTML file.",
+   "stamp": "Dashboard generated on {date}. Figures are the responsibility of the source institution; the presentation is the responsibility of the team that built this page.",
+   "syntheticWarn": "Demonstration data — fictional country, for training purposes only.",
+   "kicker": "Labour market statistics",
+   "title": "2026 Labour Market Overview",
+   "subtitle": "",
+   "ovTitle": "Key indicators",
+   "ovLede": "This dashboard presents the evolution of active population, activity rates and employment by sex from 2022 to 2026.",
+   "limBody": "The values 1174, 1183, 1222, 1232, 1235, 1245, 1248 and 1258 do not appear in the ‘Femmes’ row of the activity‑rate series; that row contains only the percentages 27.2, 27.5, 26.0, 28.2, 27.0 and 27.7.",
+   "publisher": "National Institute of Statistics",
+   "period": ""
+  },
+  "fr": {
+   "sourceDoc": "Publication source",
+   "tabOverview": "Vue d'ensemble",
+   "tabData": "Données et sources",
+   "filterLabel": "Zones",
+   "reset": "Réinitialiser",
+   "searchPh": "Chercher un indicateur, une zone, une année…",
+   "btnCsv": "Télécharger le CSV",
+   "btnJson": "Télécharger le JSON",
+   "thIndicator": "Indicateur",
+   "thArea": "Zone",
+   "thPeriod": "Période",
+   "thValue": "Valeur",
+   "thUnit": "Unité",
+   "thPage": "Page",
+   "thStatus": "Contrôle",
+   "noRows": "Aucun chiffre ne correspond à cette recherche.",
+   "statusOk": "Vérifié",
+   "statusWarn": "À revoir",
+   "provLabel": "Lu dans le document source, page",
+   "calloutTitle": "À lire avant de réutiliser les chiffres",
+   "calloutBody": "Ces chiffres ont été extraits d'un PDF par un modèle de langage, puis contrôlés automatiquement contre le texte source. Les lignes marquées « À revoir » ont échoué à au moins un contrôle et n'ont pas été confirmées par un statisticien. Citez toujours la publication d'origine, pas ce tableau de bord.",
+   "dataTitle": "Données et sources",
+   "dataLede": "Tous les chiffres de ce tableau de bord, avec la page dont ils proviennent et la ligne de texte dont ils ont été lus. Cherchez, triez, ouvrez une ligne pour voir la source, exportez.",
+   "limTitle": "Limites",
+   "methTitle": "Comment ce tableau de bord a été construit",
+   "methBody": "Le texte a été extrait du PDF page par page. Un lecteur à base de règles et un modèle de langage ont transcrit les tableaux indépendamment, et chaque cellule a été contrôlée : provenance de page, citation vérifiée, unité et plage, réconciliation avec les totaux publiés, et accord entre les deux lectures. Le notebook, les prompts et le rapport de vérification sont dans le dépôt.",
+   "fSource": "Source",
+   "fLicence": "Licence",
+   "fBuilt": "Réalisé avec",
+   "fContact": "Contact",
+   "fBuiltBody": "Python, une chaîne d'extraction par LLM, Chart.js. Aucun traceur, aucun cookie, aucun serveur — un seul fichier HTML.",
+   "stamp": "Tableau de bord généré le {date}. Les chiffres relèvent de la responsabilité de l'institution source ; la présentation relève de la responsabilité de l'équipe qui a construit cette page.",
+   "syntheticWarn": "Données de démonstration — pays fictif, à usage pédagogique uniquement.",
+   "kicker": "Statistiques du marché du travail",
+   "title": "Aperçu du marché du travail 2026",
+   "subtitle": "",
+   "ovTitle": "Indicateurs clés",
+   "ovLede": "Ce tableau de bord présente l’évolution de la population active, des taux d’activité et de l’emploi selon le sexe de 2022 à 2026.",
+   "limBody": "Les valeurs 1174, 1183, 1222, 1232, 1235, 1245, 1248 et 1258 n’apparaissent pas dans la ligne « Femmes » de la série du taux d’activité ; cette ligne ne comporte que les pourcentages 27,2, 27,5, 26,0, 28,2, 27,0 et 27,7.",
+   "publisher": "Institut National de la Statistique",
+   "period": ""
+  }
+ }
+}
